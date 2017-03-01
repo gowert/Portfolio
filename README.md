@@ -8,4 +8,4 @@ In undergrad, I double-majored in Economics and Business (Finance/Accounting foc
 
 I have recently graduated from GalvanizeU with my Master’s in Data Science. I was fortunate enough to secure top marks in Mathematics, Machine Learning, and Special Topics courses, as well as for our final work produced via our industry internship.
 
-I worked for Silicon Valley Bank’s R&D department, studying venture capital. In particular I focused on using investor social networks, as measured by deal participation, to better understand, describe, and predict venture outcomes and investor behaviors.
+I most recently have worked at Silicon Valley Bank, studying venture capital. In particular I focused on using investor social networks, as measured by deal participation, to better understand, describe, and predict venture outcomes and investor behaviors.
