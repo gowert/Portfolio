@@ -1,6 +1,6 @@
 # Portfolio
 
-I’m a data scientist with special focus on graphical models, graph theory, cognitive science, behavioral economics, and Bayesian methods. This repository holds a portfolio of some of my particular projects of interest. These include applications of neural nets, Doc2Vec, custom sentiment discovery, and graph analysis.
+I’m a data scientist with special focus on graphical methods, models, and theory, cognitive science, behavioral economics, and Bayesian methods. This repository holds a portfolio of some of my particular projects of interest. These include applications of neural nets, Doc2Vec, custom sentiment discovery, and graph analysis.
 
 
 A brief history of my realted experience, for those interested:
